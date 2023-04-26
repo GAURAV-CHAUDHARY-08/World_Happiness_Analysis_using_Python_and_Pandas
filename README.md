@@ -2,7 +2,7 @@
 In this project I analyzed the World Happiness Report to gain insights into the factors affecting the happiness of Countries and Regions around the world.
 I used Python and several data analysis libraries such as Seaborn Pandas Matplotlib to clean analyze and visualize the data.
 
-Data
+<h1 align = "center" id = "title">Data</h1>
 The world happiness report datset includes 165 countries, as well as several factors includes like health, economy, family, freedom. I used this data to find detailed analysis insights and gains insights.
 
 Analysis
