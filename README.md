@@ -11,8 +11,8 @@ I analyzed the data using various statistical and visualization techniques. I us
 <h1 align = "center" id = "title">Conclusion</h1>
 My analysis in shown that the factors that contributes vary widely across different countries. Example freedom to make life choices are important factors of happiness, preception of corruption have greater impact on happiness in some region than others. Overall, my analysis is provides valuable insights that how many factors can affect the happiness of diffrent countries and regions.
 
-<h1 align = "center" id = "title">🛡️ Credits:</h1>
+<h1 align = "center" id = "title">🛡️ Credits:  </h1>
 This project was completed by Gaurav Chaudhary as part of a Data Science Course Of Mentorkart analysis completed with the help Coursemates,Youtube and Mentors. I would like to acknowledge the World Happiness Report for providing the dataset used in this project.
 
-<h1 align = "center" id = "title">🛡️ License:</h1>
+<h1 align = "center" id = "title">🛡️ License:  </h1>
 This project is licensed under the GNU General Public License v3.0.
